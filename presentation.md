@@ -9,6 +9,13 @@
 #[fit]javascript
 #[fit]ruby
 #[fit]web
+####java
+####lotus notes
+
+---
+
+#[fit]ember
+#[fit]may 2013
 
 ---
 
@@ -42,7 +49,7 @@
 
 ---
 
-#[fit]but we've been that for
+#[fit]but we've been doing that for
 
 #[fit]a long time
 
@@ -80,6 +87,10 @@
 
 ---
 
+#[fit]Why?
+
+---
+
 #[fit]deployment becomes super quick
 
 ---
@@ -111,6 +122,7 @@
 
 
 
+
        npm install ember-cli-deploy --save-dev
 ```
 
@@ -121,27 +133,36 @@
 
 
 
+
                   ember deploy:assets
 
                   ember deploy:index
 
-                  ember deploy
+                  ember activate <key>
 ```
 
 ---
 
 What's coming up
 
+- ember deploy
+- ember deploy:versions (show git commit etc)
+- ember deploy:rollback
+- assets adapters (S3, Divshot, Dropbox, Firebase)
+- index memory store adapters (Redis, Mongo etc etc)
+- store index.html by branch-name
+- update to latest addon version
+
 ---
 
-If you want to talk about deployment, emberjs in general, or having me work with you, come up and say hi
+If you want to talk about deployment, ember in general, or having me work with you, come up and say hi
 
 ---
 
 Links:
 
-http://tiny.cc/luke-melia
 http://github.com/achambers/ember-cli-deploy
 https://github.com/achambers/fuzzy-wookie
+http://tiny.cc/luke-melia
 
 ---
