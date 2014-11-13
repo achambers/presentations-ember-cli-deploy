@@ -91,17 +91,15 @@
 
 ---
 
-#[fit]deployment becomes super quick
+#[fit]fast deployment
 
 ---
 
-#push assets to S3
-
-#push index.html to redis
+#[fit]seamless cutover
 
 ---
 
-#[fit]not to mention cutting over
+#[fit]deploy all branches
 
 ---
 
@@ -143,26 +141,61 @@
 
 ---
 
-What's coming up
-
-- ember deploy
-- ember deploy:versions (show git commit etc)
-- ember deploy:rollback
-- assets adapters (S3, Divshot, Dropbox, Firebase)
-- index memory store adapters (Redis, Mongo etc etc)
-- store index.html by branch-name
-- update to latest addon version
+#[fit]demo
 
 ---
 
-If you want to talk about deployment, ember in general, or having me work with you, come up and say hi
+#[fit]what's
+#[fit]next?
 
 ---
 
-Links:
-
-http://github.com/achambers/ember-cli-deploy
-https://github.com/achambers/fuzzy-wookie
-http://tiny.cc/luke-melia
+#[fit]more commands
 
 ---
+
+```bash
+
+
+
+
+                  ember deploy
+
+                  ember deploy:versions
+
+                  ember deploy:rollback
+```
+
+---
+
+#[fit]adapters
+
+---
+
+#[fit]version by branch-name
+
+---
+
+#[fit]anything else that you need
+
+---
+
+#[fit]questions?
+
+---
+
+#[fit]links
+
+---
+
+##http://github.com/achambers/ember-cli-deploy
+##http://github.com/achambers/fuzzy-wookie
+##http://tiny.cc/luke-melia
+
+---
+
+#Aaron Chambers
+
+##@grandazz
+##github.com/achambers
+##achambers@gmail.com
