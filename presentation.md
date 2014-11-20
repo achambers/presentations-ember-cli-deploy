@@ -15,6 +15,7 @@
 ---
 
 #[fit]ember
+#since
 #[fit]may 2013
 
 ---
@@ -30,6 +31,10 @@
 ---
 
 ![fit](https://raw.githubusercontent.com/achambers/presentations-ember-cli-deploy/master/noah.jpg)
+
+---
+
+#ember-cli-deploy
 
 ---
 
@@ -69,6 +74,10 @@
 
 ---
 
+![fit](https://raw.githubusercontent.com/achambers/presentations-ember-cli-deploy/master/deployment-nginx.png)
+
+---
+
 ![fit](https://raw.githubusercontent.com/achambers/presentations-emberjs-when-the-lights-go-on/master/deployment-stage3.png?token=416724__eyJzY29wZSI6IlJhd0Jsb2I6YWNoYW1iZXJzL3ByZXNlbnRhdGlvbnMtZW1iZXJqcy13aGVuLXRoZS1saWdodHMtZ28tb24vbWFzdGVyL2RlcGxveW1lbnQtc3RhZ2UzLnBuZyIsImV4cGlyZXMiOjE0MTIxMTU3NTB9--e3fc9103f63cdc61defeceee09a90b5ea81b9d48)
 
 ---
@@ -92,6 +101,10 @@
 ---
 
 #[fit]fast deployment
+
+---
+
+#[fit]continuous deployment
 
 ---
 
@@ -145,8 +158,16 @@
 
 ---
 
+![fit](https://raw.githubusercontent.com/achambers/presentations-emberjs-when-the-lights-go-on/master/deployment-stage4.png?token=416724__eyJzY29wZSI6IlJhd0Jsb2I6YWNoYW1iZXJzL3ByZXNlbnRhdGlvbnMtZW1iZXJqcy13aGVuLXRoZS1saWdodHMtZ28tb24vbWFzdGVyL2RlcGxveW1lbnQtc3RhZ2U0LnBuZyIsImV4cGlyZXMiOjE0MTIxMTU3NjZ9--db9e87e7cf0cc025bcbc7d27111ec7d23bb1b20e)
+
+---
+
 #[fit]what's
 #[fit]next?
+
+---
+
+#[fit]adapters
 
 ---
 
@@ -168,10 +189,6 @@
 
 ---
 
-#[fit]adapters
-
----
-
 #[fit]version by branch-name
 
 ---
@@ -188,9 +205,9 @@
 
 ---
 
-##http://github.com/achambers/ember-cli-deploy
-##http://github.com/achambers/fuzzy-wookie
-##http://tiny.cc/luke-melia
+###http://github.com/achambers/ember-cli-deploy
+###http://github.com/achambers/fuzzy-wookie
+###http://tiny.cc/luke-melia
 
 ---
 
