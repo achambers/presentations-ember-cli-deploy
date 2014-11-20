@@ -8,7 +8,6 @@
 #developer for 13 years
 #[fit]javascript
 #[fit]ruby
-#[fit]web
 ####java
 ####lotus notes
 
@@ -50,11 +49,15 @@
 
 #[fit]and serving from rails
 
-#[fit]is cool and all
+#[fit]is cool
 
 ---
 
-#[fit]but we've been doing that for
+#[fit]but it can be slow
+
+---
+
+#[fit]and we've been doing that for
 
 #[fit]a long time
 
@@ -63,6 +66,9 @@
 #[fit]we can do
 
 #[fit]better
+
+^-JS apps are just static files
+-No need for a server to dynamically generate html
 
 ---
 
@@ -75,6 +81,8 @@
 ---
 
 ![fit](https://raw.githubusercontent.com/achambers/presentations-ember-cli-deploy/master/deployment-nginx.png)
+
+^-If using CLI buildpack
 
 ---
 
@@ -168,6 +176,9 @@
 ---
 
 #[fit]adapters
+
+^- ember addons
+- Redis, S3
 
 ---
 
